@@ -14,9 +14,12 @@ var processOrder = function(orderNumber,seconds,callback){
 }
 
 
-
 placeOrder(2,5000);
 placeOrder(3,4000);
 placeOrder(4,3000);
 placeOrder(5,2000);
 placeOrder(6,1000);
+
+
+
+#This explains callbacks
